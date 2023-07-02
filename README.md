@@ -1,8 +1,8 @@
 # ox_game_re
 Siv3Dで制作した○×ゲームです．
 ### 開発環境
-・Windows11
-・Visual Studio 2022
+・Windows11/n
+・Visual Studio 2022\n
 ・Siv3D v0.6.10(https://siv3d.github.io/ja-jp/)
 ### インストール
 ダウンロードしてexeファイルをクリックするとゲームが起動します．
