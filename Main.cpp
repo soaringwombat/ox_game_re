@@ -1,7 +1,5 @@
 ﻿# include <Siv3D.hpp> // OpenSiv3D v0.6.10
 
-#include <Siv3D.hpp> // OpenSiv3D v0.6.3
-
 Grid<int> board_status = { {0, 0, 0},
 							{0, 0, 0},
 							{0, 0, 0} };	//マスの状態:0.なし，1.o，2.x
