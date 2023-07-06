@@ -1,8 +1,6 @@
 ﻿# include <Siv3D.hpp> // OpenSiv3D v0.6.10
 
-Grid<int> board_status = { {0, 0, 0},
-							{0, 0, 0},
-							{0, 0, 0} };	//マスの状態:0.なし，1.o，2.x
+Grid<int> board_status = { {0, 0, 0},{0, 0, 0},{0, 0, 0} };	//マスの状態:0.なし，1.o，2.x
 bool player = true; // true:o, false:x
 bool end_flag = false;
 int onBoard[2] = { 0, 0 };
